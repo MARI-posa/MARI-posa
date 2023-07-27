@@ -1,11 +1,11 @@
 ![MARIposagif1](https://github.com/MARI-posa/MARI-posa/assets/128982101/23dc3d0d-47dc-4cb1-bb5f-96e647680eff)
 
-<h1 align="center">Hi 👋, I'm Mary</h1>
-<h3 align="center">Data Scientist</h3>
+<h1 align="left">Hi 👋, I'm Mary</h1>
+<h3 align="left">Data Scientist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maria-kozlova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-kozlova/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maria-kozlova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maria-kozlova/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
