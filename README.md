@@ -1,6 +1,6 @@
 ![MARIposagif1](https://github.com/MARI-posa/MARI-posa/assets/128982101/23dc3d0d-47dc-4cb1-bb5f-96e647680eff)
 
-<h1 align="left">Hi 👋, I'm Mary</h1>
+<h1 align="left">Hi, I'm Mary 👋</h1>
 <h3 align="left">Data Scientist</h3>
 
 <h3 align="left">Connect with me:</h3>
